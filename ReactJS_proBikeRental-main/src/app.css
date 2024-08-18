@@ -1,0 +1,89 @@
+body {
+    background-color: #09081a !important;
+}
+
+h5 svg {
+    background-color: white;
+    padding: 3%;
+    font-size: 1.5em;
+    border-radius: 50px;
+}
+
+.navbar_style {
+    background-color: #111427;
+}
+
+
+.card_style_container {
+    border: 1px solid #331122 !important;
+    background-color: #090909 !important;
+}
+
+.card_style_header_main {
+    background-color: #000000 !important;
+    color: #aaaaaa !important;
+}
+
+.card_item_content {
+    color: #928edb;
+    border: 1px solid #171544 !important;
+    background-color: #060512 !important;
+}
+
+.card_img_item {
+    background-color: transparent !important;
+    border: 1px solid transparent !important;
+    border-radius: 15px;
+}
+
+.btn1 {
+    background: #256d85 !important;
+    border: 1px solid transparent !important;
+}
+
+.btn1:hover {
+    background: #153f4e !important;
+}
+
+.btn1:active {
+    background: #256d85;
+    border: 1px solid transparent !important;
+}
+
+.btn2 {
+    background: #428525 !important;
+    border: 1px solid transparent !important;
+}
+
+.btn2:hover {
+    background: #285415 !important;
+
+}
+
+.btn2:active {
+    background: #428525;
+    border: 1px solid transparent !important;
+}
+
+.ico_input {
+    color: #996ae9;
+    background-color: #16003b;
+    border: 1px solid transparent;
+}
+
+.form-control:focus {
+    color: #000000;
+    background-color: #fff;
+    border-color: #00000000;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(87, 100, 118, 0);
+}
+
+.li_style {
+    background-color: #04000a;
+    color: #6600ff;
+}
+
+.modal-backdrop {
+    --bs-backdrop-opacity: 0.9;
+}
